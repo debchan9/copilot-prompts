@@ -1,0 +1,56 @@
+---
+
+# 📖 Exemplo de Uso – Sistema de Orientação de Carreira em Tecnologia
+
+Este é um exemplo real de interação entre **usuário** e os agentes de IA (Agent 1 + Agent 2).
+
+---
+
+## 🧑 Usuário (Débora)
+
+**Dados fornecidos ao Agent 1:**
+- **CARREIRA_ESCOLHIDA:** Cientista de Dados  
+- **HORAS_SEMANA:** 10  
+- **EXPERIENCIA:** zero  
+- **OBJETIVO:** primeiro emprego  
+- **PREFERENCIA:** dados / código  
+- **INTERESSES:** Python, SQL, HTML, CSS, JavaScript  
+
+---
+
+## 🤖 Agent 2 – Planejador de Carreira
+
+**Plano gerado:**
+- **Visão do dia a dia:** coleta, limpeza, análise e modelagem de dados, comunicação de resultados.  
+- **Mapa de skills:** Python, SQL, estatística como core; visualização e ML como complementares.  
+- **Roadmap inicial:** 90 dias → depois expandido para **120 dias**, incluindo GitHub.  
+- **Projeto de portfólio:** previsão de churn com dataset público, publicado no GitHub.  
+- **Roteiro de entrevistas:** perguntas comuns de Python, SQL e ML com respostas estruturadas.  
+- **Trilha DIO recomendada:** Formação Cientista de Dados.  
+
+---
+
+## 📊 Evolução da Interação
+
+1. **Primeiro plano:** roadmap de 90 dias.  
+2. **Ajuste:** expandido para 120 dias e inclusão de GitHub no cronograma.  
+3. **Complemento:** lista de cursos recomendados (Python, SQL, Git/GitHub, Jupyter).  
+4. **Organização:** criação de planilha estilo Excel com semanas, módulos e entregas.  
+5. **Expansão:** versão em HTML para abrir no Excel.  
+6. **README:** documentação do desafio para repositório GitHub.  
+7. **Resumo final:** interação exemplificada para mostrar fluxo completo.  
+
+---
+
+## 🛠️ Resultado
+
+O sistema demonstrou como:
+- **Agent 1** coleta perfil e recomenda carreiras.  
+- **Agent 2** gera plano detalhado, ajusta conforme feedback e organiza em formatos práticos (planilha, README).  
+- O usuário sai com um **roadmap de 120 dias**, cursos recomendados e um **projeto de portfólio pronto para GitHub**.  
+
+---
+
+✨ Esse exemplo mostra como o sistema pode ser usado em **mentorias de carreira**, **plataformas de EdTech** ou como **ferramenta prática para iniciantes em tecnologia**.
+
+---
